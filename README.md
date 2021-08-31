@@ -1,4 +1,4 @@
-# Experiment With Java-8 , Springboot
+# Experiment With Java , Springboot
 
 We would create a service that would offer search and filter capabilities for products. 
 

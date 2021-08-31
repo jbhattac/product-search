@@ -20,7 +20,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 		<com.google.guava.guava.version>21.0</com.google.guava.guava.version>
 		<io.springfox.springfox-swagger2>2.3.1</io.springfox.springfox-swagger2>
 		<io.springfox.springfox-swagger-ui>2.3.1</io.springfox.springfox-swagger-ui>
